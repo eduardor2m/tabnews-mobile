@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tabnews-mobile",
+    "slug": "tabnews-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
